@@ -1,0 +1,6 @@
+import %workspace%/build/convenience.bazelrc
+import %workspace%/build/correctness.bazelrc
+#import %workspace%/build/cross.bazelrc
+import %workspace%/build/debug.bazelrc
+import %workspace%/build/performance.bazelrc
+import %workspace%/build/zig-cc.bazelrc

@@ -1,0 +1,4 @@
+load("@bazel_gazelle//:def.bzl", "gazelle")
+
+# gazelle:prefix github.com/prestonvanloon/zig-cc-toolchain-issue
+gazelle(name = "gazelle")
